@@ -25,7 +25,7 @@ img {
 
 a,
 a:active {
-  color: #606;
+  color: #175b86;
   text-decoration: none;
 }
 
@@ -57,12 +57,12 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-weight: 300;
-  font-size: 48px;
+  font-size: 32px;
   margin: 1em 0 .5em;
 }
 
 h1.page-title {
-  font-size: 48px;
+  font-size: 32px;
   margin: 1em 30px;
 }
 
@@ -199,7 +199,7 @@ nav ul a:active {
 
 nav a:hover,
 nav a:active {
-  color: #606;
+  color: #175b86;
 }
 
 nav > ul {
@@ -207,7 +207,7 @@ nav > ul {
 }
 
 nav > ul > li > a {
-  color: #606;
+  color: #175b86;
 }
 
 nav ul ul {
@@ -237,7 +237,7 @@ nav h2 {
 nav > h2 > a {
    display: block;
    margin: 10px 0 -10px;
-   color: #606 !important;
+   color: #175b86 !important;
 }
 
 footer {
@@ -453,7 +453,7 @@ footer {
 }
 
 span.param-type, .params td .param-type, .param-type dd {
-   color: #606;
+   color: #175b86;
   font-family: Consolas, Monaco, 'Andale Mono', monospace
 }
 
